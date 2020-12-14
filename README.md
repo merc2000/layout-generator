@@ -1,1 +1,1 @@
-# movie-finder
+# layout-generator
